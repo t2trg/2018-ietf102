@@ -17,13 +17,14 @@ Notes: <https://etherpad.tools.ietf.org/p/notes-irtf-102-t2trg>
 
 Please contact [chairs][] for any slot proposals.
 
-|  Time | Who                     | Subject                         | Docs                                                                            |
-|-------|-------------------------|---------------------------------|---------------------------------------------------------------------------------|
-| 15:50 | Chairs                  | Intro, RG Status                | [draft-irtf-t2trg-iot-seccons][seccons] [draft-irtf-t2trg-rest-iot-00][restiot] |
-| 16:00 | Michael Koster / Chairs | Report from [WISHI][] and Hackathon |                                                                                 |
-| 16:30 | TBD                     | Next steps in security          |                                                                                 |
-| 17:40 | Chairs                  | Meeting Planning, Wrapup        | [OCF/W3C-WoT][OCF]                                                              |
-| 17:50 |                         | end of meeting                  |                                                                                 |
+|  Time | Who                      | Subject                              | Docs                                                                            |
+|-------|--------------------------|--------------------------------------|---------------------------------------------------------------------------------|
+| 15:50 | Chairs                   | Intro, RG Status                     | [draft-irtf-t2trg-iot-seccons][seccons] [draft-irtf-t2trg-rest-iot-00][restiot] |
+| 16:00 | Michael Koster / Chairs, | Report from [WISHI][] and Hackathon, |                                                                                 |
+|       | Matthias Kovatsch        | W3C update                           |                                                                                 |
+| 16:40 | TBD                      | Next steps in security               |                                                                                 |
+| 17:40 | Chairs                   | Meeting Planning, Wrapup             |                                                                                 |
+| 17:50 |                          | end of meeting                       |                                                                                 |
 
 [WISHI]: https://github.com/t2trg/wishi/wiki/Agenda-items
 [seccons]: https://tools.ietf.org/html/draft-irtf-t2trg-iot-seccons-15
