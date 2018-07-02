@@ -23,7 +23,7 @@ Please contact [chairs][] for any slot proposals.
 | 16:00 | Michael Koster / Chairs, | Report from [WISHI][] and Hackathon  |                                                                                 |
 |       | Michael Koster           | iot.schema.org update                |                                                                                 |
 |       | Matthias Kovatsch        | W3C update                           |                                                                                 |
-| 16:40 | TBD                      | Next steps in security. Potential topics: <ul><li>new crypto for IoT, selecting crypto, crypto transitions</li><li>semantics for security</li><li>security/privacy for semantics and self-description</li><li>elationship to dinrg (blockchain?)</li></ul> |                                                                                 |
+| 16:40 | TBD                      | Next steps in security. Potential topics: <ul><li>new crypto for IoT, selecting crypto, crypto transitions</li><li>semantics for security</li><li>security/privacy for semantics and self-description</li><li>relationship to dinrg (blockchain?)</li></ul> |                                                                                 |
 | 17:40 | Chairs                   | Meeting Planning, Wrapup             |                                                                                 |
 | 17:50 |                          | end of meeting                       |                                                                                 |
 
