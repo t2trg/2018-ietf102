@@ -19,7 +19,7 @@ Please contact [chairs][] for any slot proposals.
 
 |  Time | Who                      | Subject                              | Docs                                                                            |
 |-------|--------------------------|--------------------------------------|---------------------------------------------------------------------------------|
-| 15:50 | Chairs                   | Intro, RG Status                     | [draft-irtf-t2trg-iot-seccons][seccons] [draft-irtf-t2trg-rest-iot-00][restiot] |
+| 15:50 | Chairs                   | Intro, RG Status                     | [draft-irtf-t2trg-iot-seccons][seccons] [draft-irtf-t2trg-rest-iot][restiot] |
 | 16:00 | Michael Koster / Chairs, | Report from [WISHI][] and Hackathon  |                                                                                 |
 |       | Michael Koster           | iot.schema.org update                |                                                                                 |
 |       | Matthias Kovatsch        | W3C update                           |                                                                                 |
