@@ -23,7 +23,7 @@ Please contact [chairs][] for any slot proposals.
 | 16:00 | Michael Koster / Chairs, | Report from [WISHI][] and Hackathon  |                                                                                 |
 |       | Michael Koster           | iot.schema.org update                |                                                                                 |
 |       | Matthias Kovatsch        | W3C update                           |                                                                                 |
-| 16:40 | TBD                      | Next steps in security. <ul><li>Automated IoT Security</li><li>Setting up IoT Security</li><li>Security for IoT Multitenancy</li><li>Next Steps for IoT Object Security</li><li>IoT Security Semantics and Semantics Security</li></ul> |   [draft-garciamorchon-t2trg-automated-iot-security](https://tools.ietf.org/html/draft-garciamorchon-t2trg-automated-iot-security-00)                                                                              |
+| 16:40 | TBD                      | Next steps in security. <ul><li>Automated IoT Security</li><li>Setting up IoT Security</li><li>Security for IoT Multitenancy</li><li>IoT Security Semantics and Semantics Security</li></ul> |   [draft-garciamorchon-t2trg-automated-iot-security](https://tools.ietf.org/html/draft-garciamorchon-t2trg-automated-iot-security-00)                                                                              |
 | 17:40 | Chairs                   | Meeting Planning, Wrapup             |                                                                                 |
 | 17:50 |                          | end of meeting                       |                                                                                 |
 
